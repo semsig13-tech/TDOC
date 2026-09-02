@@ -83,7 +83,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "642f5a8d83addd3f",
@@ -199,23 +200,28 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "83324e934c6922bd",
+  "active": "d8e05a80655e3662",
   "lastOpenFiles": [
+    "media/МТЗ/16.png",
+    "media/МТЗ/Для таблиц/2.png",
+    "media/МТЗ/Для таблиц/1.png",
+    "media/МТЗ/Для таблиц",
+    "media/МТЗ/Новая папка",
+    "Расчет токов нагрузки и токов короткого замыкания.md",
+    "Максимальная токовая защита (МТЗ).md",
+    "media/Расчет токов нагрузки и токов короткого замыкания/1.png",
+    "media/Расчет токов нагрузки и токов короткого замыкания",
+    "media/Новая папка",
+    "media/МТЗ/15.png",
+    "media/МТЗ/14.png",
     "media/МТЗ/9.png",
     "media/МТЗ/8.png",
     "media/МТЗ/7.png",
     "media/МТЗ/6.png",
     "media/МТЗ/5.png",
-    "media/МТЗ/4.png",
-    "media/МТЗ/3.png",
-    "media/МТЗ/13.png",
-    "media/МТЗ/2.png",
-    "media/МТЗ/12.png",
-    "media/МТЗ/11.png",
     "media/МТЗ",
     "media",
     "Новая папка",
-    "Максимальная токовая защита (МТЗ).md",
     "МТЗ",
     "Добро пожаловать.md"
   ]
