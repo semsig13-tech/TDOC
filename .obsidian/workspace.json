@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Максимальная токовая защита (МТЗ).md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Максимальная токовая защита (МТЗ)"
+              "title": "index"
             }
           }
         ]
@@ -83,8 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "642f5a8d83addd3f",
@@ -162,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Максимальная токовая защита (МТЗ).md",
+                "file": "index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -200,15 +199,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d8e05a80655e3662",
+  "active": "83324e934c6922bd",
   "lastOpenFiles": [
+    "Максимальная токовая защита (МТЗ).md",
+    "index.md",
     "media/МТЗ/16.png",
     "media/МТЗ/Для таблиц/2.png",
     "media/МТЗ/Для таблиц/1.png",
     "media/МТЗ/Для таблиц",
     "media/МТЗ/Новая папка",
     "Расчет токов нагрузки и токов короткого замыкания.md",
-    "Максимальная токовая защита (МТЗ).md",
     "media/Расчет токов нагрузки и токов короткого замыкания/1.png",
     "media/Расчет токов нагрузки и токов короткого замыкания",
     "media/Новая папка",
@@ -218,7 +218,6 @@
     "media/МТЗ/8.png",
     "media/МТЗ/7.png",
     "media/МТЗ/6.png",
-    "media/МТЗ/5.png",
     "media/МТЗ",
     "media",
     "Новая папка",
