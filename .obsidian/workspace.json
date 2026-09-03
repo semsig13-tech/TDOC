@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "Защита минимального напряжения (ЗМН).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Защита минимального напряжения (ЗМН)"
             }
           }
         ]
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md",
+                "file": "Защита минимального напряжения (ЗМН).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -185,7 +185,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 358.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -196,28 +196,32 @@
       "templates:Вставить шаблон": false,
       "command-palette:Открыть палитру команд": false,
       "bases:Создать новую базу": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "quartz-syncer:Quartz Syncer Publication Center": false
     }
   },
   "active": "83324e934c6922bd",
   "lastOpenFiles": [
     "Максимальная токовая защита (МТЗ).md",
+    "Защита минимального напряжения (ЗМН).md",
+    "media/ЗМН/1.png",
     "index.md",
+    "media/ЗМН/7.png",
+    "media/ЗМН/6.png",
+    "media/ЗМН/5.png",
+    "media/ЗМН/4.png",
+    "media/ЗМН/3.png",
+    "media/ЗМН/2.png",
+    "media/ЗМН",
+    "media/Новая папка",
+    "media/index/Pasted image 20260903125351.png",
+    "media/index",
+    "Pasted image 20260903125351.png",
+    "Расчет токов нагрузки и токов короткого замыкания.md",
     "media/МТЗ/16.png",
-    "media/МТЗ/Для таблиц/2.png",
-    "media/МТЗ/Для таблиц/1.png",
     "media/МТЗ/Для таблиц",
     "media/МТЗ/Новая папка",
-    "Расчет токов нагрузки и токов короткого замыкания.md",
-    "media/Расчет токов нагрузки и токов короткого замыкания/1.png",
     "media/Расчет токов нагрузки и токов короткого замыкания",
-    "media/Новая папка",
-    "media/МТЗ/15.png",
-    "media/МТЗ/14.png",
-    "media/МТЗ/9.png",
-    "media/МТЗ/8.png",
-    "media/МТЗ/7.png",
-    "media/МТЗ/6.png",
     "media/МТЗ",
     "media",
     "Новая папка",
