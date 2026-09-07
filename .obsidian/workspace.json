@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Максимальная токовая защита (МТЗ).md",
+                "file": "Защита минимального напряжения (ЗМН).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Максимальная токовая защита (МТЗ)"
+              "title": "Защита минимального напряжения (ЗМН)"
             }
           }
         ]
@@ -83,8 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "642f5a8d83addd3f",
@@ -162,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Максимальная токовая защита (МТЗ).md",
+                "file": "Защита минимального напряжения (ЗМН).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -201,8 +200,12 @@
       "quartz-syncer:Quartz Syncer Publication Center": false
     }
   },
-  "active": "83324e934c6922bd",
+  "active": "444ec4b185a29868",
   "lastOpenFiles": [
+    "Максимальная токовая защита (МТЗ).md",
+    "Защита минимального напряжения (ЗМН).md",
+    "Расчет токов нагрузки и токов короткого замыкания.md",
+    "index.md",
     "media/МТЗ/51.png",
     "media/МТЗ/50.png",
     "media/МТЗ/49.png",
@@ -213,11 +216,6 @@
     "media/МТЗ/44.png",
     "media/МТЗ/43.png",
     "media/МТЗ/42.png",
-    "media/МТЗ/41.png",
-    "Защита минимального напряжения (ЗМН).md",
-    "Максимальная токовая защита (МТЗ).md",
-    "Расчет токов нагрузки и токов короткого замыкания.md",
-    "index.md",
     "media/ЗМН",
     "media/Новая папка",
     "media/index",
