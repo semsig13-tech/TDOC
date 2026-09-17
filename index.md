@@ -5,4 +5,4 @@ publish: true
 # Добро пожаловать на портал технической документации Tavrida Electric - TDOC
 
 
-![[Pasted image 20260903125351.png]]
+![[media/index/1.png]]
