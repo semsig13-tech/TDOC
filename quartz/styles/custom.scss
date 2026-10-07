@@ -274,5 +274,5 @@ footer .links a:hover {
 // ============================================================================
 
 .text-highlight {
-  background-color: lighten(#33856E, 30%);
+  background-color: transparentize(lighten(#33856E, 30%), 0.85);
 }
