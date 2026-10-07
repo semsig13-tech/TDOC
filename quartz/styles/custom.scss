@@ -273,6 +273,6 @@ footer .links a:hover {
 // Цвет выделения текста
 // ============================================================================
 
-mark {
-  background-color: lighten(#33856E, 30%) !important;
+.text-highlight {
+  background-color: lighten(#33856E, 30%);
 }
