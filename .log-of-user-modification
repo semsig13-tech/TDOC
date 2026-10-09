@@ -52,12 +52,30 @@ theme:
 
 10. https://github.com/semsig13-tech/TDOC-FAST/blob/v5/quartz/styles/custom.scss - изменена цветовая гамма (цыет выделенного текста). 07.10.2026
 
-11. Изменен футер https://github.com/semsig13-tech/TDOC/blob/v5/quartz/i18n/locales/ru-RU.ts . 08.10.2026
-
+11. Изменен футер. 08.10.2026
+https://github.com/semsig13-tech/TDOC/blob/v5/quartz/i18n/locales/ru-RU.ts - изменен текст футера в локали с динамическим отображением года
  footer: {
       createdWith: "© ${new Date().getFullYear()} Таврида Электрик",
     },
+https://github.com/semsig13-tech/TDOC/blob/v5/quartz.config.yaml - отключен дефолтный футер и подключен кастомный
+ - source: "@quartz-community/footer"
+    enabled: false
+  - source: "custom/footer"
+    enabled: true
+    layout:
+      position: footer
+      priority: 50
+https://github.com/semsig13-tech/TDOC/blob/v5/quartz/components/Footer.tsx - создан кастомный футер
+https://github.com/semsig13-tech/TDOC/blob/v5/quartz/components/index.ts - зарегистрирован новый футер
+import Footer from "./Footer"
+import { componentRegistry } from "./registry"
 
- Планируется изменение футера. Инструкция: https://chat.deepseek.com/share/dcjb99h6gzdmw920gz
+componentRegistry.register("Footer", Footer, "local")
+componentRegistry.register("footer", Footer, "local")
+componentRegistry.register("custom/footer", Footer, "local")
+
+
+
+
  Планируется создание и интеграция плагина для конвертации в word/pdf
  Планируется интеграция ИИ-асистента
