@@ -52,6 +52,12 @@ theme:
 
 10. https://github.com/semsig13-tech/TDOC-FAST/blob/v5/quartz/styles/custom.scss - изменена цветовая гамма (цыет выделенного текста). 07.10.2026
 
+11. Изменен футер https://github.com/semsig13-tech/TDOC/blob/v5/quartz/i18n/locales/ru-RU.ts . 08.10.2026
+
+ footer: {
+      createdWith: "© ${new Date().getFullYear()} Таврида Электрик",
+    },
+
  Планируется изменение футера. Инструкция: https://chat.deepseek.com/share/dcjb99h6gzdmw920gz
  Планируется создание и интеграция плагина для конвертации в word/pdf
  Планируется интеграция ИИ-асистента
