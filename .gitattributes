@@ -1,3 +1,2 @@
-* text=auto eol=lf
 Files-for-download/FS-CS_UsSoft_TELARM_Lite(4.6.9_EN.RU.ES.PL.PT.BR)_0.exe filter=lfs diff=lfs merge=lfs -text
 *.exe filter=lfs diff=lfs merge=lfs -text
