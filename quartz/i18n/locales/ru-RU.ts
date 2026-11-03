@@ -36,7 +36,7 @@ export default {
       title: "Проводник",
     },
     footer: {
-      createdWith: `© ${new Date().getFullYear()} Таврида Электрик`,
+      createdWith: "Создано с помощью",
     },
     graph: {
       title: "Вид графа",
